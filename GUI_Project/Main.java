@@ -12,7 +12,5 @@ public class Main {
        
         double height = Double.parseDouble(JOptionPane.showInputDialog("Enter your height")); //This will allow the user to insert their height
         JOptionPane.showMessageDialog(null, "You are " + height + " cm tall"); //This will print out a statement about the user's height
-
-        If_Statement.CheckAge();
     }
 }
